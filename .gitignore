@@ -1,0 +1,11 @@
+*build*/*
+test
+build
+rbuild
+.vscode
+extern
+
+
+*.vtk
+*.obj
+*.jpg
